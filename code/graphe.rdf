@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://www.semanticweb.org/thivani/ontologies/2024/1/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://www.semanticweb.org/thivani/ontologies/2024/1/untitled-ontology-4Alice">
+    <ns1:untitled-ontology-4découvrir_1>quartiers</ns1:untitled-ontology-4découvrir_1>
+    <ns1:untitled-ontology-4reconnaître_1>expertise</ns1:untitled-ontology-4reconnaître_1>
+    <ns1:untitled-ontology-4immerger_1>diversité de ville</ns1:untitled-ontology-4immerger_1>
+    <ns1:untitled-ontology-4ressentir_1>besoin de changement</ns1:untitled-ontology-4ressentir_1>
+    <ns1:untitled-ontology-4décider_1>New York</ns1:untitled-ontology-4décider_1>
+    <ns1:untitled-ontology-4repousser_1>limites dans domaine de technologie</ns1:untitled-ontology-4repousser_1>
+    <ns1:untitled-ontology-4étudier_2>Université de Stanford</ns1:untitled-ontology-4étudier_2>
+    <ns1:untitled-ontology-4étudier_1>Informatique</ns1:untitled-ontology-4étudier_1>
+    <ns1:untitled-ontology-4naître_2>10 mai 1990</ns1:untitled-ontology-4naître_2>
+    <ns1:untitled-ontology-4obtenir_1>diplôme</ns1:untitled-ontology-4obtenir_1>
+    <ns1:untitled-ontology-4acquérir_2>réputation dans domaine de technologie</ns1:untitled-ontology-4acquérir_2>
+    <ns1:untitled-ontology-4naître_1>Paris</ns1:untitled-ontology-4naître_1>
+    <ns1:untitled-ontology-4attacher_1>quête de connaissances</ns1:untitled-ontology-4attacher_1>
+    <ns1:untitled-ontology-4consacrer_1>temps</ns1:untitled-ontology-4consacrer_1>
+    <ns1:untitled-ontology-4impliquer_1>projets</ns1:untitled-ontology-4impliquer_1>
+    <ns1:untitled-ontology-4participer_1>conférences</ns1:untitled-ontology-4participer_1>
+    <ns1:untitled-ontology-4résider_1>New York</ns1:untitled-ontology-4résider_1>
+    <ns1:untitled-ontology-4encourager_1>talents</ns1:untitled-ontology-4encourager_1>
+    <ns1:untitled-ontology-4rejoindre_1>initiatives</ns1:untitled-ontology-4rejoindre_1>
+    <ns1:untitled-ontology-4impliquer_2>projets</ns1:untitled-ontology-4impliquer_2>
+    <ns1:untitled-ontology-4déménager_1>côte Est</ns1:untitled-ontology-4déménager_1>
+    <ns1:untitled-ontology-4acquérir_1>années</ns1:untitled-ontology-4acquérir_1>
+    <ns1:untitled-ontology-4poursuivre_2>STEM</ns1:untitled-ontology-4poursuivre_2>
+    <ns1:untitled-ontology-4travailler_1>entreprise de technologie</ns1:untitled-ontology-4travailler_1>
+    <ns1:untitled-ontology-4poursuivre_1>carrière</ns1:untitled-ontology-4poursuivre_1>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/thivani/ontologies/2024/1/untitled-ontology-4Jean">
+    <ns1:untitled-ontology-4naître_3>15 juin 1985</ns1:untitled-ontology-4naître_3>
+    <ns1:untitled-ontology-4partager_1>passion pour innovation</ns1:untitled-ontology-4partager_1>
+    <ns1:untitled-ontology-4devenir_1>ami</ns1:untitled-ontology-4devenir_1>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/thivani/ontologies/2024/1/untitled-ontology-4amitié">
+    <ns1:untitled-ontology-4tisser_1>conversations</ns1:untitled-ontology-4tisser_1>
+    <ns1:untitled-ontology-4tisser_2>avancées</ns1:untitled-ontology-4tisser_2>
+    <ns1:untitled-ontology-4nourrir_1>esprit de curiosité</ns1:untitled-ontology-4nourrir_1>
+  </rdf:Description>
+</rdf:RDF>
