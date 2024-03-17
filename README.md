@@ -16,5 +16,4 @@
     + le fichier de propriétés resultats_wikidata.json
 + Slides utilisés lors de la soutenance dans *presentation/*
 + Articles étudiés dans *articles/*
-+ Tests réalisés dans *evaluation/*
 + Enoncé du projet dans *enonce/*
